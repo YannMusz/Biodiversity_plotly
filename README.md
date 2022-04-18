@@ -15,7 +15,7 @@ Goal of the project was to complete a dashboard with demographic information usi
 
 ## Website
 Interactive Webpage can be found here: 
-https://baylex.github.io/Plotly_Biodiversity/
+https://yannmusz.github.io/Biodiversity_plotly/
 
 ## Graphs generated
 1. Horizontal graph
