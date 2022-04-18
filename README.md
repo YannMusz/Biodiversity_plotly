@@ -8,7 +8,7 @@
 4. Parse data(JSON)
 6. Use JavaScript's Math library
 7. Using interactivity to better display visualizations of data
-9. Deploy an interactive chart to GitHub Pages.
+9. Deploy interactive page.
 
 ## Overview 
 Goal of the project was to complete a dashboard with demographic information using bacterial data collected from volunteers so that they could identify what bacterial species were in their belly buttons.
